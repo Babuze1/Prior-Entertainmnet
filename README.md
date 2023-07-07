@@ -1,8 +1,8 @@
-PRIOR ENTERTAINMENT
+# PRIOR ENTERTAINMENT
 =======================
-<Games and Comic books store> <description>
+<Games and Comic books store> <descriptions>
 
-REQUIREMENTS
+# REQUIREMENTS
 Prerequisites
 
 node v14.17.4 and above
