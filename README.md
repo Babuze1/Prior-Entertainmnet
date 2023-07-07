@@ -3,7 +3,9 @@
 #
 Cocktail Recipes
 #
-One will be able to purchase video games and comic books from this platform and it will be saved in their library for eternity.They will also recieve updates on lately released video games and comic books of the categories they chose.
+One will be able to view different types of cocktail recipes.
+Once you reload or refresh the page you will load up a different type of cocktail recipe.
+Any type of cocktail out there in the world is in this app and one is able to access all of them.
 
 # REQUIREMENTS
 Prerequisites
