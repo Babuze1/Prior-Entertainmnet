@@ -1,6 +1,6 @@
 # PRIOR ENTERTAINMENT
 =======================
-<Games and Comic books store> <descriptions>
+<Games and Comic books store> <One will be able to purchase video games and comic books from this platform and it will be saved in their library for eternity.They will also recieve updates on lately released video games and comic books of the categories they chose.>
 
 # REQUIREMENTS
 Prerequisites
