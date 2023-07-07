@@ -1,7 +1,7 @@
-# PRIOR ENTERTAINMENT
+# PRIOR RECIPES
 =======================
 #
-Games and Comic books store
+Cocktail Recipes
 #
 One will be able to purchase video games and comic books from this platform and it will be saved in their library for eternity.They will also recieve updates on lately released video games and comic books of the categories they chose.
 
